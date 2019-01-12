@@ -1,5 +1,5 @@
 name: Footer Styles
-description: Footer section styles for the Helium theme
+description: Footer section styles for the Ramblers Helium theme
 type: section
 
 form:
@@ -8,7 +8,7 @@ form:
     background:
       type: input.colorpicker
       label: Background
-      default: "#312f38"
+      default: "#5B491F"
     text-color:
       type: input.colorpicker
       label: Text
