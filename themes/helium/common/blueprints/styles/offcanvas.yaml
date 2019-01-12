@@ -8,15 +8,15 @@ form:
     background:
       type: input.colorpicker
       label: Background
-      default: "#4db2b3"
+      default: "#206C49"
     text-color:
       type: input.colorpicker
       label: Text
-      default: "#eceeef"
+      default: "#ffffff"
     toggle-color:
       type: input.colorpicker
       label: Toggle Color
-      default: "#4db2b3"
+      default: "#A8B400"
     toggle-visibility:
       type: select.selectize
       label: Toggle Visibility
