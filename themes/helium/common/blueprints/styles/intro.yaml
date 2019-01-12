@@ -1,5 +1,5 @@
 name: Intro Styles
-description: Intro section styles for the Helium theme
+description: Intro section styles for the Ramblers Helium theme
 type: section
 
 form:
@@ -8,8 +8,8 @@ form:
     background:
       type: input.colorpicker
       label: Background
-      default: "#f4f5f7"
+      default: "#A8B400"
     text-color:
       type: input.colorpicker
       label: Text
-      default: "#424753"
+      default: "#ffffff"
