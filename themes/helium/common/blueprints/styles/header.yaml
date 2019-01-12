@@ -1,5 +1,5 @@
 name: Header Styles
-description: Header section styles for the Helium theme
+description: Header section styles for the Ramblers Helium theme
 type: section
 
 form:
@@ -8,11 +8,11 @@ form:
     background:
       type: input.colorpicker
       label: Background
-      default: "#312f38"
+      default: "#206C49"
     background-image:
       type: input.imagepicker
       label: Background Image
-      default: 'gantry-media://header/img01.jpg'
+      default: ''
     background-overlay:
       type: select.select
       label: Background Overlay
@@ -25,4 +25,4 @@ form:
     text-color:
       type: input.colorpicker
       label: Text
-      default: "#eceeef"
+      default: "#ffffff"
