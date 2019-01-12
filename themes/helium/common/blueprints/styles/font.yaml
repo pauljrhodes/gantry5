@@ -1,5 +1,5 @@
 name: Font Families
-description: Font families for the Helium theme
+description: Font families for the Ramblers Helium theme
 type: core
 
 form:
@@ -8,8 +8,8 @@ form:
     family-default:
       type: input.fonts
       label: Body Font
-      default: 'Raleway, Helvetica, Tahoma, Geneva, Arial, sans-serif'
+      default: 'Century Gothic, family=Muli:300, Tahoma, Geneva, Arial, sans-serif'
     family-title:
       type: input.fonts
       label: Title Font
-      default: 'Lato, Helvetica, Tahoma, Geneva, Arial, sans-serif'
+      default: 'Century Gothic, family=Muli:500, Tahoma, Geneva, Arial, sans-serif'
