@@ -1,5 +1,5 @@
 name: Utility Styles
-description: Utility section styles for the Helium theme
+description: Utility section styles for the Ramblers Helium theme
 type: section
 
 form:
@@ -8,7 +8,7 @@ form:
     background:
       type: input.colorpicker
       label: Background
-      default: "#424753"
+      default: "#5B491F"
     text-color:
       type: input.colorpicker
       label: Text
