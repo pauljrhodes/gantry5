@@ -8,8 +8,12 @@ form:
     background:
       type: input.colorpicker
       label: Background
-      default: "#ffffff"
+      default: "#206C49"
+    background-image:
+      type: input.imagepicker
+      label: Background Image
+      default: "gantry-media://RamblersHorizons/Undergrowth/Undergrowth_OR.png"
     text-color:
       type: input.colorpicker
       label: Text
-      default: "#424753"
+      default: "#ffffff"
