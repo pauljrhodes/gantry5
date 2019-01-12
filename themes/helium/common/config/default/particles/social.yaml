@@ -5,17 +5,22 @@ title: ''
 target: _blank
 items:
   -
-    icon: 'fa fa-twitter fa-fw'
+    icon: 'fa fa-twitter fa-fw fa-2x'
     text: ''
-    link: 'http://www.twitter.com/rockettheme'
+    link: 'http://www.twitter.com/RamblersGB'
     name: Twitter
   -
-    icon: 'fa fa-facebook fa-fw'
+    icon: 'fa fa-facebook fa-fw fa-2x'
     text: ''
-    link: 'http://www.facebook.com/RocketTheme'
+    link: 'http://www.facebook.com/ramblers'
     name: Facebook
   -
-    icon: 'fa fa-google-plus fa-fw'
+    icon: 'fa fa-meetup fa-2x'
     text: ''
-    link: 'https://plus.google.com/+rockettheme'
-    name: Google+
+    link: 'https://www.meetup.com/'
+    name: Meetup
+  -
+    icon: 'fa fa-instagram fa-2x'
+    text: ''
+    link: 'https://www.instagram.com/ramblersgb/'
+    name: Instagram
