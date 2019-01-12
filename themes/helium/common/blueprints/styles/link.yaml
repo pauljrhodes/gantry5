@@ -1,5 +1,5 @@
 name: Link Colors
-description: Link colors for the Helium theme
+description: Link colors for the Ramblers Helium theme
 type: core
 
 form:
@@ -8,8 +8,8 @@ form:
     regular:
       type: input.colorpicker
       label: Link Color
-      default: "#4db2b3"
+      default: "#5B491F"
     hover:
       type: input.colorpicker
       label: Hover Color
-      default: "#424753"
+      default: "#D7A900"
