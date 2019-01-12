@@ -1,5 +1,5 @@
 name: Features Styles
-description: Features section styles for the Helium theme
+description: Features section styles for the Ramblers Helium theme
 type: section
 
 form:
@@ -12,4 +12,4 @@ form:
     text-color:
       type: input.colorpicker
       label: Text
-      default: "#424753"
+      default: "#000000"
