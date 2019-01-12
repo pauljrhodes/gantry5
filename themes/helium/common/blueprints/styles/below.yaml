@@ -1,0 +1,19 @@
+name: Below Styles
+description: Below section styles for the Helium theme
+type: section
+
+form:
+  fields:
+
+    background:
+      type: input.colorpicker
+      label: Background
+      default: "#D7A900"
+    background-image:
+      type: input.imagepicker
+      label: Background Image
+      default: "gantry-media://RamblersHorizons/Undergrowth/Undergrowth_OR.png"
+    text-color:
+      type: input.colorpicker
+      label: Text
+      default: "#ffffff"
