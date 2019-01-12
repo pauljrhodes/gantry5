@@ -1,5 +1,5 @@
 name: Base Styles
-description: Base styles for the Helium theme
+description: Base styles for the Ramblers Helium theme
 type: core
 
 form:
@@ -12,4 +12,8 @@ form:
     text-color:
       type: input.colorpicker
       label: Base Text Color
-      default: "#424753"
+      default: "#000000"
+    background-image:
+      type: input.imagepicker
+      label: Background Image
+      default: "gantry-media://RamblersHorizons/Undergrowth/Undergrowth_YL.png"
