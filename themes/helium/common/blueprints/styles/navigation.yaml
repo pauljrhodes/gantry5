@@ -1,5 +1,5 @@
 name: Navigation Styles
-description: Navigation section styles for the Helium theme
+description: Navigation section styles for the Ramblers Helium theme
 type: section
 
 form:
@@ -8,8 +8,9 @@ form:
     background:
       type: input.colorpicker
       label: Background
-      default: "#312f38"
+      default: "#ffffff"
     text-color:
       type: input.colorpicker
       label: Text
-      default: "#ffffff"
+      default: "#206C49"
+      
