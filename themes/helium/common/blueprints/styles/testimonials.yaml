@@ -1,5 +1,5 @@
 name: Testimonials Styles
-description: Testimonials section styles for the Helium theme
+description: Testimonials section styles for the Ramblers Helium theme
 type: section
 
 form:
@@ -8,11 +8,11 @@ form:
     background:
       type: input.colorpicker
       label: Background
-      default: "#8f4dae"
+      default: "#A8B400"
     background-image:
       type: input.imagepicker
       label: Background Image
-      default: 'gantry-media://testimonials/img01.jpg'
+      default: "gantry-media://RamblersHorizons/Undergrowth/Undergrowth_OR.png"
     background-overlay:
       type: select.select
       label: Background Overlay
@@ -25,4 +25,4 @@ form:
     text-color:
       type: input.colorpicker
       label: Text
-      default: "#eceeef"
+      default: "#ffffff"
